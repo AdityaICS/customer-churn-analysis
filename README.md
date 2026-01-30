@@ -149,4 +149,4 @@ Python 3.10+ | MySQL | Pandas | Matplotlib | Seaborn | Scikit-learn (feature ana
 
 ---
 
-**⭐ Star this repo if you found it helpful for your portfolio!**
+**⭐ Star this repo if you found it helpful **
