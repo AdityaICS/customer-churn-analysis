@@ -11,7 +11,7 @@
 
 ## 🎯 Problem Statement
 
-As a **Senior Data Analyst**, I analyzed customer churn data to answer critical business questions:
+As a ** Data Analyst**, I analyzed customer churn data to answer critical business questions:
 
 1. **Why are customers leaving?** Identify root causes of churn
 2. **Which customers are at highest risk?** Build predictive risk models
