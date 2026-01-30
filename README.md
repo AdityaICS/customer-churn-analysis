@@ -127,7 +127,7 @@ customer-churn-analysis/
 
 ## 🛠️ Tools & Technologies
 
-Python 3.10+ | PostgreSQL | Pandas | Matplotlib | Seaborn | Scikit-learn (feature analysis)
+Python 3.10+ | MySQL | Pandas | Matplotlib | Seaborn | Scikit-learn (feature analysis)
 
 ---
 
